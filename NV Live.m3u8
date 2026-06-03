@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="T Sports" tvg-country="BD" tvg-chno="1" group-title="Sports",T Sports
+#EXTVLCOPT:network-caching=1000
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="PTV Sports" tvg-country="Pakistan" tvg-chno="2" group-title="Sports",PTV Sports
+#EXTVLCOPT:network-caching=1000
+https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="A sports" tvg-country="Pakistan" tvg-chno="3" group-title="Sports",A sports
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Star Sports 1 HD" tvg-country="India" tvg-chno="4" group-title="Sports",Star Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Somoy TV" tvg-country="BD" tvg-chno="5" group-title="News",Somoy TV
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="Jamuna TV" tvg-country="BD" tvg-chno="6" group-title="News",Jamuna TV
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="DBC News HD" tvg-country="BD" tvg-chno="7" group-title="News",DBC News HD
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Independent TV" tvg-country="BD" tvg-chno="8" group-title="News",Independent TV
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="Ekattor HD" tvg-country="BD" tvg-chno="9" group-title="News",Ekattor HD
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="Channel 24 HD" tvg-country="BD" tvg-chno="10" group-title="News",Channel 24 HD
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="News 24 HD" tvg-country="BD" tvg-chno="11" group-title="News",News 24 HD
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="ATN News" tvg-country="BD" tvg-chno="12" group-title="News",ATN News
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="ATN Bangla HD" tvg-country="BD" tvg-chno="13" group-title="Entertainment",ATN Bangla HD
+#EXTVLCOPT:network-caching=1000
+https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1780380886&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fbc0cba1116644416d04f22f13498271
+#EXTINF:-1 tvg-id="14" tvg-name="Ekushey TV" tvg-country="BD" tvg-chno="14" group-title="Entertainment",Ekushey TV
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/etv/index.m3u8?e=1780380886&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9b58fdf4657be6022a7fc425882d2ecd
