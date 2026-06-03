@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="T Sports" tvg-country="BD" tvg-chno="1" group-title="Sports",T Sports
 #EXTVLCOPT:network-caching=1000
-http://172.16.15.5:8666/T-SPORTS/embed.html?token=2d4c66d0b08cb61465576ee3a0b0a6bc604a6221-c9b900bda5d531324047f3db502fd369-1780465786-1780454986&remote=202.83.126.236
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="PTV Sports" tvg-country="Pakistan" tvg-chno="2" group-title="Sports",PTV Sports
 #EXTVLCOPT:network-caching=1000
 https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
