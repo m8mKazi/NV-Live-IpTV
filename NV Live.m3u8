@@ -122,6 +122,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="NTV" tvg-country="BD" tvg-chno="41" group-title="Entertainment",NTV
 #EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="STAR JALSHA HD" tvg-country="Indian" tvg-chno="42" group-title="Entertainment",STAR JALSHA HD
+#EXTINF:-1 group-title="Indian Bangla",STAR JALSHA HD
 #EXTVLCOPT:network-caching=1000
 https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
