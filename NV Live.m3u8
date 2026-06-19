@@ -1,1 +1,181 @@
-
+#EXTM3U
+#EXTINF:-1 group-title="Sports",T Sports
+#EXTVLCOPT:network-caching=1000
+http://172.16.15.5/play.php?stream=T-SPORTS
+#EXTINF:-1 group-title="Sports",PTV Sports
+#EXTVLCOPT:network-caching=1000
+https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports",A sports
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports",Star Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 group-title="News",Somoy TV
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 group-title="News",Jamuna TV
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 group-title="News",DBC News HD
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 group-title="News",Independent TV
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 group-title="News",Ekattor HD
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 group-title="News",Channel 24 HD
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 group-title="News",News 24 HD
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 group-title="News",ATN News
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 group-title="Bangla",ATN Bangla HD
+#EXTVLCOPT:network-caching=1000
+https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1780380886&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fbc0cba1116644416d04f22f13498271
+#EXTINF:-1 group-title="Bangla",Ekushey TV
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/etv/index.m3u8?e=1780380886&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9b58fdf4657be6022a7fc425882d2ecd
+#EXTINF:-1 group-title="Bangla",RTV HD
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Bangla",GTV HD
+#EXTVLCOPT:network-caching=1000
+https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Bangla",Desh TV HD
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/deshtv/index.m3u8?e=1780380886&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=92b606f98ed4ae0d7e317003c49ecf68
+#EXTINF:-1 group-title="Bangla",Boishakhi TV HD
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/boishakhitv/index.m3u8?e=1780380886&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=230c934416ece99dba72c7a647362fe5
+#EXTINF:-1 group-title="Bangla",Asian TV HD
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/asiantv/index.m3u8?e=1780380886&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=669eb43e162f693c52612ab3a78c3408
+#EXTINF:-1 group-title="Bangla",Duronto TV
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1780380886&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1ac1ab82bbcdb83be0a1cfc685299533
+#EXTINF:-1 group-title="Bangla",Bangla TV HD
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1780380886&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4a2a2c25377dafcd8f194e83e1a7bd92
+#EXTINF:-1 group-title="Bangla",Ananda TV
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1780380886&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=68d0e8a6b6e5dd2e6801b6a566ab3274
+#EXTINF:-1 group-title="Bangla",My TV HD
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/mytv/index.m3u8?e=1780380886&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=aff8f8ddd0d1ce1c63115a8482896d77
+#EXTINF:-1 group-title="Bangla",Global TV HD
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1780380887&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3c4838aeb8717b159d532ba7a30a2d14
+#EXTINF:-1 group-title="Bangla",Bijoy TV HD
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/bijoytv/index.m3u8?e=1780380887&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=22875052cc1736a569888527fbc41d45
+#EXTINF:-1 group-title="Bangla",NEXUS TV HD
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1780380887&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4277e36458a02b97aa0fac84360aff27
+#EXTINF:-1 group-title="Bangla",Mohona TV HD
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/mohonatv/index.m3u8?e=1780380887&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f26008f3d15b067dfd4d27cdefb5da38
+#EXTINF:-1 group-title="Bangla",Ekhon TV
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/ekhontv/index.m3u8?e=1780380887&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9831b6abaa4e872e0a41a5b797bebb9d
+#EXTINF:-1 group-title="Bangla",G Series Drama
+#EXTVLCOPT:network-caching=1000
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="News",Al Jazeera
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 group-title="News",Star News
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+#EXTINF:-1 group-title="News",BTV
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 group-title="Bangla",Deepto TV HD
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 group-title="Bangla",SATV HD
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+#EXTINF:-1 group-title="Bangla",Channel 9 HD
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+#EXTINF:-1 group-title="Bangla",SRK TV
+#EXTVLCOPT:network-caching=1000
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangla",Channel I HD
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 group-title="Bangla",Maasranga TV
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 group-title="News",ARY News
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+#EXTINF:-1 group-title="Bangla",Bangla Vision
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 group-title="Bangla",NTV
+#EXTVLCOPT:network-caching=1000
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla",STAR JALSHA HD
+#EXTVLCOPT:network-caching=1000
+https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla",kolkata TV
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1780380889&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=67ecd9bacd2288bf00177da9ba132f49
+#EXTINF:-1 group-title="Indian Bangla",Zee 24 Ghanta
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/zee24/index.m3u8?e=1780380889&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=35b5ff09b8b938774c2bea598a9bd723
+#EXTINF:-1 group-title="Indian Bangla",Republic Bangla
+#EXTVLCOPT:network-caching=1000
+https://tvsen5.aynaott.com/R_Bangla/index.m3u8?e=1780380889&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b56ddc8d88f87edaca3e9036d8e16cbf
+#EXTINF:-1 group-title="Indian Bangla",Sony ATTH
+#EXTVLCOPT:network-caching=1000
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+#EXTINF:-1 group-title="Kids",Disney JR
+#EXTVLCOPT:network-caching=1000
+https://tvsen7.aynaott.com/disneyjr/index.m3u8?e=1780380892&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=86505e6150c672e70aa5c791c3bbb965
+#EXTINF:-1 group-title="Kids",Disney Channel
+#EXTVLCOPT:network-caching=1000
+https://tvsen7.aynaott.com/disney/index.m3u8?e=1780380892&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=490fe50211b237245fecc286051cca37
+#EXTINF:-1 group-title="Kids",Cartoon Network
+#EXTVLCOPT:network-caching=1000
+https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8?e=1780380892&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5684a548a52f0548c8d99bfc69ccb748
+#EXTINF:-1 group-title="Kids",Nicktoons
+#EXTVLCOPT:network-caching=1000
+https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1780380892&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b7adcdb0999610774f674ad5e4d9cd30
+#EXTINF:-1 group-title="Kids",Nickjr
+#EXTVLCOPT:network-caching=1000
+https://tvsen5.aynaott.com/nickjr/index.m3u8?e=1780380892&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=74e18b1fe7a580211d6dac680354e3d8
+#EXTINF:-1 group-title="Hindi",Dangal
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/Dangal/index.m3u8?e=1780380892&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bae6becbd1f880929d485255c9fd7b32
+#EXTINF:-1 group-title="Hindi",Dhinchaak
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/Dhinchaak/index.m3u8?e=1780380891&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fad4d517d38f8377223e0695bd38aa89
+#EXTINF:-1 group-title="Hindi",9x Jalwa
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/9xjalwa/index.m3u8?e=1780380891&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=be04d188251f0b46bc0560daf9156c5e
+#EXTINF:-1 group-title="Hindi",9X Tashan
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/9X_Tashan/index.m3u8?e=1780380891&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f3a473a40b5859904bd7f132710b1b50
+#EXTINF:-1 group-title="Hindi",B4U Kadak
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/B4U_Kadak/index.m3u8
+#EXTINF:-1 group-title="Hindi",Goldmines
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/Goldmines/index.m3u8
+#EXTINF:-1 group-title="Hindi",Goldmines Bollywood
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
+#EXTINF:-1 group-title="Hindi",Goldmines Movies
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/GoldminesMovies/index.m3u8
+#EXTINF:-1 group-title="Hindi",Shemaroo TV
+#EXTVLCOPT:network-caching=1000
+https://tvsen6.aynaott.com/ShemarooTV/index.m3u8
