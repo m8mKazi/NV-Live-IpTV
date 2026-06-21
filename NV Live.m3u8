@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sports",T Sports
 #EXTVLCOPT:network-caching=1000
-https://mflixott.com/tv/dd/live.php?id=270
+http://redforce.live/player.php?stream=1
 #EXTINF:-1 group-title="Sports",PTV Sports
 #EXTVLCOPT:network-caching=1000
 https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
