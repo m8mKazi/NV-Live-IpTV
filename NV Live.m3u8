@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sports",T Sports
 #EXTVLCOPT:network-caching=1000
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+http://redforce.live:8082/T-SPORTS-HD/tracks-a1/mono.m3u8?token=0d64154e16937004409ace9ba329f0ff0f369613-bccda9b3c540f487906822b32979c559-1783629403-1783618603
 #EXTINF:-1 group-title="Sports",PTV Sports
 #EXTVLCOPT:network-caching=1000
 https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
