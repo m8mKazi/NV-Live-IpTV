@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sports",T Sports
 #EXTVLCOPT:network-caching=1000
-https://stream.midiplexhd.com/sm2/tracks-v1a1/mono.m3u8
+http://redforce.live:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=563efc4d394d6e369579dd8c3d95b6f039af3ac7-5f115294370697c3e4143dc67f4eec1e-1784152074-1784141274
 #EXTINF:-1 group-title="Sports",PTV Sports
 #EXTVLCOPT:network-caching=1000
 https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
