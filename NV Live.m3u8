@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sports",1 T Sports
 #EXTVLCOPT:network-caching=1000
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1784487085-0-0-7e23bd48219f0eaf5fab9205ed4109ae
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1784491285-0-0-a0a8e6594ab89a127493918d93d8c4f5
 #EXTINF:-1 group-title="Sports",PTV Sports
 #EXTVLCOPT:network-caching=1000
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
