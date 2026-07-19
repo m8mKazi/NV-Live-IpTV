@@ -4,16 +4,16 @@
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 group-title="Sports",PTV Sports
 #EXTVLCOPT:network-caching=1000
-https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports",A sports
 #EXTVLCOPT:network-caching=1000
 https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports",Star Sports 1 HD
 #EXTVLCOPT:network-caching=1000
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 group-title="News",Somoy TV
+#EXTINF:-1 group-title="News",2 Somoy TV
 #EXTVLCOPT:network-caching=1000
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",Jamuna TV
 #EXTVLCOPT:network-caching=1000
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
